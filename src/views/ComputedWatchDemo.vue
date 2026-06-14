@@ -298,7 +298,7 @@ watchEffect(() => {
 .demo-section {
   margin-bottom: 32px;
   padding: 24px;
-  background: white;
+  background: transparent;
   border-radius: 12px;
   border: 1px solid #e2e8f0;
 }
