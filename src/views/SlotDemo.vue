@@ -141,7 +141,7 @@ const fruits = ref([
 .demo-page { max-width: 900px; margin: 0 auto; padding: 20px; }
 .demo-page > h1 { text-align: center; margin-bottom: 8px; }
 .desc { text-align: center; color: #64748b; margin-bottom: 32px; }
-.demo-section { margin-bottom: 32px; padding: 24px; background: white; border-radius: 12px; border: 1px solid #e2e8f0; }
+.demo-section { margin-bottom: 32px; padding: 24px; background: transparent; border-radius: 12px; border: 1px solid #e2e8f0; }
 .demo-section h2 { margin: 0 0 8px; color: #1e293b; }
 .tip { color: #64748b; font-size: 0.9rem; margin-bottom: 16px; padding: 8px 12px; background: #f0f9ff; border-radius: 6px; border-left: 3px solid #3b82f6; }
 .demo-box { display: flex; flex-direction: column; gap: 16px; }

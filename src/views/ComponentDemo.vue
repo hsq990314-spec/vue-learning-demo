@@ -226,7 +226,7 @@ defineExpose({
 .demo-page > h1 { text-align: center; margin-bottom: 8px; }
 .desc { text-align: center; color: #64748b; margin-bottom: 32px; }
 .demo-section {
-  margin-bottom: 32px; padding: 24px; background: white;
+  margin-bottom: 32px; padding: 24px; background: transparent;
   border-radius: 12px; border: 1px solid #e2e8f0;
 }
 .demo-section h2 { margin: 0 0 8px; color: #1e293b; }
