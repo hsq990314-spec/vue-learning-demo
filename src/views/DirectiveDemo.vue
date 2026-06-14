@@ -187,5 +187,5 @@ table { width: 100%; border-collapse: collapse; }
 th, td { padding: 12px 16px; text-align: left; border-bottom: 1px solid #e2e8f0; }
 th { background: #f8fafc; color: #667eea; font-weight: 600; }
 td { font-size: 0.9rem; }
-code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem; color: #667eea; }
+.result code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.85rem; color: #667eea; }
 </style>

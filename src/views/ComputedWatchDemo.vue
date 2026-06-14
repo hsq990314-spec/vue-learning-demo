@@ -396,7 +396,8 @@ th {
 
 td { font-size: 0.9rem; }
 
-code {
+/* 行内 code 样式（不影响代码块内的 code） */
+.result code {
   background: #f1f5f9;
   padding: 2px 6px;
   border-radius: 4px;
